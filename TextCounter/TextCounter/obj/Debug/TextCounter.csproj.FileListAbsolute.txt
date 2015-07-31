@@ -1,0 +1,9 @@
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\bin\Debug\TextCounter.exe.config
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\obj\Debug\TextCounter.csprojResolveAssemblyReference.cache
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\obj\Debug\TextCounter.countTextForm.resources
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\obj\Debug\TextCounter.Properties.Resources.resources
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\obj\Debug\TextCounter.csproj.GenerateResource.Cache
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\bin\Debug\TextCounter.exe
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\bin\Debug\TextCounter.pdb
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\obj\Debug\TextCounter.exe
+c:\users\kdawg\documents\visual studio 2013\Projects\TextCounter\TextCounter\obj\Debug\TextCounter.pdb
